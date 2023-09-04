@@ -10,6 +10,10 @@ Greetings and welcome to the FocusTime App! This app is the culmination of my ed
 - **Visual and Tactile Alerts:** Stay on track with clear notifications.
 - **Elegant Design:** A minimalist aesthetic ensures a distraction-free experience.
 
+| Home screen              | Timer screen               |
+| ------------------------ | -------------------------- |
+| ![home](home_screen.png) | ![timer](timer_screen.png) |
+
 ## Getting Started
 
 1. Clone this repository.
