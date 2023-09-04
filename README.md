@@ -1,5 +1,3 @@
-Certainly, here's a README.md description for your React Native Timer App project:
-
 ```markdown
 # React Native Timer App
 
