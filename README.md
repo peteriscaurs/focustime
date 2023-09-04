@@ -1,7 +1,7 @@
 ```markdown
-# React Native Timer App
+# FocusTime
 
-Greetings and welcome to the FocusTime App! This app is the culmination of my educational journey through the "Complete React Native in 2023: Zero to Mastery (with Hooks)" course on Udemy, where I cultivated my skills in mobile app development.
+Greetings and welcome to the FocusTime App! This app is the culmination of my educational <br>journey through the "Complete React Native in 2023: Zero to Mastery (with Hooks)" course on Udemy, where <br>I cultivated my skills in mobile app development.
 
 ## Features
 
@@ -16,5 +16,5 @@ Greetings and welcome to the FocusTime App! This app is the culmination of my ed
 2. Install the required dependencies with `npm i` or `yarn`
 3. Run the app using your preferred development environment.
 
-Feel free to explore the code, contribute, or provide feedback to help enhance this project further. Thank you for being a part of this journey!
+Feel free to explore the code, contribute, or provide feedback to help enhance this project <br>further. Thank you for being a part of this journey!
 ```
